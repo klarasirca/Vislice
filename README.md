@@ -1,6 +1,6 @@
 # Vislice
 Le za vajo
 
-Jurij Vega
+Marjan Šarec
 Ivan Vidav
 Josip Plemelj
