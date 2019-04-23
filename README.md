@@ -1,6 +1,6 @@
 # Vislice
 Le za vajo
 
-Jurij Vega
+Borut Pahor
 Ivan Vidav
 Josip Plemelj
