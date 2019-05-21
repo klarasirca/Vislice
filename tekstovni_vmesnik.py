@@ -1,7 +1,7 @@
 import model
 
 def izpis_igre(igra):
-    return """================================
+    return """===================================
 {geslo}
 Napačne črke: {napacne_crke}
 Ugibaš še: {stevilo}.krat
