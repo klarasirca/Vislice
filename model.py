@@ -85,6 +85,7 @@ class Vislice:
         id = self.prost_id_igre()
         igra = nova_igra()
         self.igre[id] = (igra, ZACETEK)
+        return id
 
     def ugibaj(self, id_igre, crka):
         (igra, stanje) = self.igre[id_igre]
